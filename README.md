@@ -1,2 +1,2 @@
 # DeepLearningPython
-Convolutional Neural Network (CNN) has been implemented using python. Its output has been integrated with Belief Rule Base (BRB), a knowledge-driven approach with a view to generating accurate prediction. 
+Convolutional Neural Network (CNN) has been implemented using python. Its output has been integrated with Belief Rule Base (BRB), a knowledge-driven approach with a view to generating accurate prediction. Here, I have taken Air Pollution prediction as my use case. Main objective is to develop a predictive analytics with improved accuracy compared with existing prediction models.
